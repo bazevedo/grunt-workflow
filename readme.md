@@ -527,3 +527,5 @@ O que foi mostrado aqui, não é quase nada perto do poder que uma ferramenta co
 Mas novamente, o motivo desse repósitorio não é fazer a solução definitiva. A idéia aqui é ser um lugar para aprendizado. Não coloque esses arquivos diretamente em produção, faça o seu próprio build de acordo com suas necessidades. E não esqueça de olhar o arquivo `Gruntfile.js` para entender um pouco melhor como as coisas funcionam.
 
 Se alguém tiver algo a contribuir, ou corrigir, é só avisar!
+
+Você também pode entrar em contato pelo meu Twitter [@bazevedo](https://twitter.com/bazevedo).

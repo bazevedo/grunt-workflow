@@ -26,8 +26,8 @@ module.exports = function(grunt) {
 				livereload : true
 			},
 			sassToCSS : {
-				files : ['dev/sass/*.scss'],
-				tasks : ['newer:sass']
+				files : ['dev/sass/{,*/}*.scss'],
+				tasks : ['newer:sass:dev']
 			},
 			jsHint : {
 				files : ['dev/js/*.js'],
