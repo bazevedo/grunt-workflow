@@ -1,0 +1,17 @@
+{
+  "curly" : true,
+  "eqeqeq" : true,
+  "indent" : false,
+  "devel" : true,
+  "latedef" : true,
+  "noempty" : true,
+  "plusplus" : true,
+  "undef" : true,
+  "unused" : true,
+  "strict" : true,
+  "browser": true,
+  "jquery" : true,
+  "esnext": true,
+  "globals": {},
+  "quotmark": true
+}
